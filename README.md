@@ -79,8 +79,8 @@
 
 ### Installation
 ```bash
-git clone https://github.com/TAMILARASAN8989/paypal-ai-guardian.git
-cd paypal-ai-guardian
+git clone https://github.com/TAMILARASAN8989/paypal-ai-guardian_2.0.git
+cd paypal-ai-guardian_2.0
 npm install
 ```
 
