@@ -1,0 +1,6 @@
+{
+  "name": "PayPal AI Guardian",
+  "description": "Intelligent Payment Protection - Fintech Cybersecurity & Fraud Detection Dashboard",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
