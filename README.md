@@ -79,7 +79,7 @@
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/paypal-ai-guardian.git
+git clone https://github.com/TAMILARASAN8989/paypal-ai-guardian.git
 cd paypal-ai-guardian
 npm install
 ```
@@ -87,7 +87,7 @@ npm install
 ### Environment Configuration
 Copy the sample environment file:
 ```bash
-cp .env.example .env.local
+Copy-Item .env.example .env.local
 ```
 
 Configure your credentials in `.env.local`:
